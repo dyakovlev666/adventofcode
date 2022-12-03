@@ -146,9 +146,9 @@ public class RockPaperScissors {
         log.info("|                  Advent of Code - Task 02 - Rock Paper Scissors                        |");
         log.info("------------------------------------------------------------------------------------------\n");
 
-        test("data/adventofcode/year2022/task02/2022_02-1-example-data.txt");
+        test("data/adventofcode/year2022/task02/2022_02-1-example_data.txt");
         log.info("\n------------------------------------------------------------------------------------------\n");
-        test("data/adventofcode/year2022/task02/2022_02-1-real-data.txt");
+        test("data/adventofcode/year2022/task02/2022_02-1-real_data.txt");
 
         log.info("\n------------------------------------------------------------------------------------------");
     }
